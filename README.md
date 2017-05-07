@@ -12,7 +12,8 @@
 # 使用步骤:
   1. 克隆caffe-master 地址:https://github.com/BVLC/caffe.git 
   2. 安装caffe及caffe所有的依赖项
-  3. 编译caffe的python接口    bash#:sudo  make pycaffe
+  3. 编译caffe的python接口    
+      1>. bash#:sudo  make pycaffe
   4. 安装qt
   5. 将本程序所有文件复制到caffe主目录下
   6. 使用qt打开本工程
